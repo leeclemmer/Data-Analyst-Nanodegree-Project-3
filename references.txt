@@ -1,0 +1,8 @@
+References
+
+http://regexr.com/
+http://www.zipmap.net/Pennsylvania.htm
+https://wiki.openstreetmap.org/wiki/OSM_XML
+http://stackoverflow.com/questions/613183/sort-a-python-dictionary-by-value
+http://stackoverflow.com/questions/9759972/what-characters-are-not-allowed-in-mongodb-field-names
+https://jira.mongodb.org/browse/SERVER-3229

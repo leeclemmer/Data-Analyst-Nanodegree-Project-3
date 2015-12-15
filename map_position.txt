@@ -1,0 +1,12 @@
+https://www.openstreetmap.org/export#map=12/40.0401/-76.3004
+
+Specific bounding box:
+
+* Minimum latitude: 39.9050
+* Maximum latitude: 40.1749
+* Minimum longitude: -76.5699
+* Maximum longitude: -76.0309
+
+This area is Lancaster and surrounding towns and country side, including part of the Susquehanna river. Lancaster and Lancaster County are noteworthy for the large Amish population which lives here and many of the colorful names of towns you'll find, such as Paradise or Intercourse.
+
+I chose this area as I recently moved from Philadelphia to Lancaster County and wanted to get to know my new surroundings a bit better.
